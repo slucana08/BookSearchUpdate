@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BookSearch</string>
+
+    <!-- Text to be used in the information boxes -->
+    <string name="title">Title: </string>
+    <string name="by">By: </string>
+    <string name="publisher">Published: </string>
+    <string name="category">Category: </string>
+    <string name="language">Language:   </string>
+    <string name="not_available">Not available</string>
+
+    <!-- Empty messages -->
+    <string name="no_internet">No internet connection</string>
+    <string name="no_book">The book doesn\'t exist</string>
+    <string name="what_seek">What is it that you seek?</string>
+    <string name="retry">Retry</string>
+
+    <!-- Search text -->
+    <string name="enter_search">Search</string>
+
+    <!-- Toast mesages -->
+    <string name="empty_search">Please input word to search</string>
+    <string name="empty_search_author">Please input word and author to search</string>
+
+    <!-- Settings caption -->
+    <string name="setting_search_by">Search by:</string>
+    <string name="setting_title">Title</string>
+    <string name="setting_author">Author</string>
+    <string name="setting_type">Type: </string>
+    <string name="setting_book">Books</string>
+    <string name="setting_show_only">Show only:</string>
+    <string name="setting_magazine">Magazines</string>
+    <string name="setting_all">All</string>
+    <string name="setting_results_page">Results per page:</string>
+
+    <!-- Pages caption -->
+    <string name="page_previous">Previous</string>
+    <string name="page_next">Next</string>
+    <string name="page">Page</string>
+    <string name="text_search">You must input text to search</string>
+    <string name="author_search">You must input author to search</string>
+    <string name="cant_search_offline">Sorry! Can\'t search if we are offline</string>
+    <string name="disconnected">We are disconnected</string>
+    <string name="back_online">Yeah!! We are back online</string>
+
+</resources>
